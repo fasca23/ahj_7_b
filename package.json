@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "server.js"
+    "start": "nodemon server.js"
   },
   "dependencies": {
     "@koa/cors": "^4.0.0",
@@ -16,6 +16,7 @@
     "koa-router": "^12.0.1",
     "live-server": "^1.1.0",
     "package": "^1.0.1",
+    "server.js": "^1.0.0",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
