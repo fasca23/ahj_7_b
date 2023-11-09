@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "server.js"
   },
   "dependencies": {
     "@koa/cors": "^4.0.0",
